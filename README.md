@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://alemente.wordpress.com/wp-content/uploads/2023/01/fernando-pessoa-robot2.png?w=300"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CreaTico6&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=CreaTico6&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="120" alt="streak graph"  />
@@ -28,10 +34,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="46" height="30" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="46" height="30" alt="slack logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://alemente.wordpress.com/wp-content/uploads/2023/01/fernando-pessoa-robot2.png?w=300"  />
 
 ###
 
