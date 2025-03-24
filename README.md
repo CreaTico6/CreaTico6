@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
