@@ -12,8 +12,8 @@
 
 ###
 
-tmux
-Ctrl+b % - divide verticalmente
+tmux<br>
+Ctrl+b % - divide verticalmente<br>
 Ctrl+b :setw synchronize-panes on
 
 ###
