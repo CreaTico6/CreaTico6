@@ -16,6 +16,7 @@
 
 tmux<br>
 Ctrl+b % - divides verticaly<br>
-Ctrl+b :setw synchronize-panes on
+Ctrl+b :setw synchronize-panes on<br>
+Ctrl+b :list-commands
 
 ###
