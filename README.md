@@ -8,8 +8,8 @@
 
 ###
   
-![Joke](https://readme-jokes.vercel.app/api?hide_border=true)
-
+![Joke](https://readme-jokes.vercel.app/api?hide_border=false)
+<br>
 ###
 
 tmux<br>
