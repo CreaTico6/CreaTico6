@@ -7,12 +7,8 @@
 </div>
 
 ###
-
-<div align="right">
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</div>
+![Joke](https://readme-jokes.vercel.app/api?hide_border=true)
 
 ###
 
