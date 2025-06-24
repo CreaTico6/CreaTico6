@@ -7,9 +7,11 @@
 </div>
 
 ###
-  
-![Joke](https://readme-jokes.vercel.app/api?hide_border=false)
-<br>
+
+<div align="right">
+  <img src="https://readme-jokes.vercel.app/api?hide_border=false" alt="Uma Anedota Minimalista e Sombria"/>
+</div>
+
 ###
 
 tmux<br>
