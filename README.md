@@ -15,3 +15,9 @@
 </div>
 
 ###
+
+tmux
+Ctrl+b % - divide verticalmente
+Ctrl+b :setw synchronize-panes on
+
+###
