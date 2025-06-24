@@ -10,7 +10,7 @@
 
 <div align="right">
   
-![Jokes Card](https://official-joke-api.appspot.com/random_joke)
+![Jokes Card]https://readme-jokes.vercel.app/api)
 
 </div>
 
