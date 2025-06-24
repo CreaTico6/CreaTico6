@@ -10,11 +10,11 @@
 
 <div align="right">
   <img src="https://readme-jokes.vercel.app/api?hide_border=false" alt="Uma Anedota Minimalista e Sombria"/>
+<br>
 </div>
 
 ###
-
-tmux<br>
+tmux new-session -A -s main<br>
 Ctrl+b % - divides verticaly<br>
 Ctrl+b :setw synchronize-panes on<br>
 Ctrl+b :list-commands
