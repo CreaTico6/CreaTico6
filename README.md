@@ -26,9 +26,19 @@ Tools:       Git • Make • GCC • GDB • Valgrind
 
 ---
 
-## 📊 GitHub Stats
+## 🎲 Fun Facts About Me
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreaTico6&theme=dark)](https://github.com/CreaTico6)
+```
+Coffee consumed:      ██████████████░░░░░░░░░░ 60% (dangerously high)
+Bugs squashed:        ████████░░░░░░░░░░░░░░░░ 35% (the rest are features™)
+Memory leaks found:   ██████████████████░░░░░░ 85% (I think... maybe?)
+Productivity at 3AM:  ███████████████████████░░ 95% (when everyone's asleep)
+Patience with make:   ██░░░░░░░░░░░░░░░░░░░░░░ 10% (why won't you compile?!)
+```
+
+**Current Status:** 🔴 Debugging something stupid I wrote at 2AM  
+**Favorite Error:** `Segmentation fault (core dumped)` - a beautiful mystery  
+**What I Tell People:** "It works on my machine" 😅
 
 ---
 
