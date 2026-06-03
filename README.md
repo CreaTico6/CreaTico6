@@ -51,10 +51,9 @@ Multi-location temperature monitoring and logging system with threshold alerts a
 
 ## 🔗 Connect & Explore
 
-- 📧 **Email:** [creatico6@gmail.com]
+- 📧 **Email:** creatico6@gmail.com
 - 🐙 **GitHub:** [@CreaTico6](https://github.com/CreaTico6)
-- 🔗 **LinkedIn:** []https://www.linkedin.com/in/tiagomotacoimbra)
-- 📝 **Portfolio:** [Your Portfolio URL]
+- 🔗 **LinkedIn:** [TiagoMotaCoimbra]https://www.linkedin.com/in/tiagomotacoimbra)
 
 ---
 
