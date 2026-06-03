@@ -26,7 +26,7 @@ A minimalist Linux automation suite with 20 reversible system effects and X11 in
 ### 🌡️ [RegTemp](https://github.com/CreaTico6/RegTemp) - Temperature Management System
 Multi-location temperature monitoring and logging system with threshold alerts and reporting.
 - **Tech:** C, Real-time Data Processing
-- **Skills:** Sensor integration, data management, embedded systems
+- **Skills:** Data management, embedded systems
 
 ---
 
@@ -51,9 +51,9 @@ Multi-location temperature monitoring and logging system with threshold alerts a
 
 ## 🔗 Connect & Explore
 
-- 📧 **Email:** [Your Email]
+- 📧 **Email:** [creatico6@gmail.com]
 - 🐙 **GitHub:** [@CreaTico6](https://github.com/CreaTico6)
-- 🔗 **LinkedIn:** [Your LinkedIn URL]
+- 🔗 **LinkedIn:** []https://www.linkedin.com/in/tiagomotacoimbra)
 - 📝 **Portfolio:** [Your Portfolio URL]
 
 ---
