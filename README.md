@@ -13,13 +13,11 @@
 | 🎭 **[AnoyLinux](https://github.com/CreaTico6/AnoyLinux)** | System automation suite with 20+ reversible effects    | C, X11, Cron |
 
 ---
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat)
 
-🖥 Unix/POSIX · Process Management · Memory Safety · X11
-🧠 Ray-Casting · Parser Design · Signal Handling · Real-time Rendering
-🛠 Git · Make · GCC · GDB · Valgrind
+**Skills:**
+
+💻 C/Python/Bash | 🖥️ Unix/X11 | 🔧 Git/GCC/GDB | 🧠 Parser
+
 ---
 
 ## 🎲 Fun Facts About Me
