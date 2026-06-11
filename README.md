@@ -1,7 +1,6 @@
 # Hi, I'm CreaTico6 👋
 
-**Software Developer | C • Python • Full-Stack**  
-Systems Programming • Graphics Engineering • Open to opportunities
+**Software Developer | C • C++ • Bash • Python**
 
 ---
 
@@ -9,21 +8,18 @@ Systems Programming • Graphics Engineering • Open to opportunities
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🎮 **[Cub3D](https://github.com/CreaTico6/cub3d)** | 3D ray-casting maze engine inspired by Wolfenstein 3D | C, X11, Ray-Casting |
-| 🐚 **[Minishell](https://github.com/CreaTico6/MiniShell)** | Full Unix shell with pipes, redirections & signals | C, POSIX, Parser Design |
-| 🎭 **[AnoyLinux](https://github.com/CreaTico6/AnoyLinux)** | System automation suite with 20+ reversible effects | C, X11, Cron |
+| 🎮 **[Cub3D](https://github.com/CreaTico6/cub3d)**         | 3D ray-casting maze engine inspired by Wolfenstein 3D  | C, X11, Ray-Casting |
+| 🐚 **[Minishell](https://github.com/CreaTico6/MiniShell)** | Full Unix shell with pipes, redirections & signals     | C, POSIX, Parser Design |
+| 🎭 **[AnoyLinux](https://github.com/CreaTico6/AnoyLinux)** | System automation suite with 20+ reversible effects    | C, X11, Cron |
 
 ---
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat)
 
-## 💻 Skills at a Glance
-
-```
-Languages:   C (C99) ███████████████ Python ████████ Bash ██████ HTML/CSS ███
-Systems:     Unix/POSIX • Process Management • Memory Safety • X11
-Concepts:    Ray-Casting • Parser Design • Signal Handling • Real-time Rendering
-Tools:       Git • Make • GCC • GDB • Valgrind
-```
-
+🖥 Unix/POSIX · Process Management · Memory Safety · X11
+🧠 Ray-Casting · Parser Design · Signal Handling · Real-time Rendering
+🛠 Git · Make · GCC · GDB · Valgrind
 ---
 
 ## 🎲 Fun Facts About Me
