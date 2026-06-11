@@ -50,8 +50,6 @@
 
 **🛠️ Task:** Reverse-engineering 2AM’s "optimizations"
 
-**🚨 Error:** "Segmentation fault (core dumped)" - the system’s way of saying "nope"!
-
 **Corporate Translation:** “The implementation exhibits environment-specific fidelity.”
 
 ---
