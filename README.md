@@ -59,5 +59,3 @@
 📧 creatico6@gmail.com • 💼 [LinkedIn](https://www.linkedin.com/in/tiagomotacoimbra) • 🐙 [@CreaTico6](https://github.com/CreaTico6)
 
 ---
-
-*Last Updated: June 2026*
