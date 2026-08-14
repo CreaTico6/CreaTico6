@@ -4,6 +4,18 @@
 
 ---
 
+🚧 Currently Working on:
+
+### 1) Face Recognition
+- Real-time face detection and recognition via webcam and personalization based on user.
+
+### 2) Gesture Recognition & Mouse Control via Webcam
+- Usage of gestures to interact with PC environment.
+  - Open apps/programs;
+  - Rotate/manipulate images;
+  - Open/edit files & folders
+
+
 ## 🎯 Featured Projects
 
 <table>
