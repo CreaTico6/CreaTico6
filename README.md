@@ -51,6 +51,18 @@
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 WebServer
+> Lightweight HTTP server with example REST endpoints
+
+`HTTP` `Server` `REST`
+
+[**→ View Project**](https://github.com/CreaTico6/WebServer)
+
+</td>
+</tr>
 </table>
 ---
 
