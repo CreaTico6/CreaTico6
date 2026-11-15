@@ -62,6 +62,16 @@
 [**→ View Project**](https://github.com/CreaTico6/WebServer)
 
 </td>
+<td width="33%" valign="top">
+
+### ⏱️ TaskTimer
+> Lightweight terminal task manager with a live GNOME countdown timer
+
+`Python` `Fish` `GTK3`
+
+[**→ View Project**](https://github.com/CreaTico6/TaskTimer)
+
+</td>
 </tr>
 </table>
 ---
